@@ -1,0 +1,9 @@
+python-telegram-bot==20.0
+google-generativeai
+google-cloud-vertex-ai
+gspread
+oauth2client
+pandas
+matplotlib
+duckduckgo-search
+python-dotenv>=1.0.0

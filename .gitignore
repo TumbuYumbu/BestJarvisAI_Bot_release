@@ -1,0 +1,22 @@
+# Не трекаем конфиденциальные данные
+.env
+*.json
+
+# Логи
+*.log
+__pycache__/
+*.pyc
+
+# IDE файлы
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+
+# OS files
+.DS_Store
+Thumbs.db
